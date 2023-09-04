@@ -5,4 +5,4 @@ Codeur_v2 est codé avec Node Js, il est en cours de développement il se base n
 ### Librairies
 J'utilise discord.js v 14 et fs (file system).
 ### Icone
-!./assets/Logo.png
+![Logo de Codeur_v2] (../assets/Logo.png)
