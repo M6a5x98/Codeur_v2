@@ -9,4 +9,4 @@ J'utilise discord.js v 14 et fs (file system).
 
 Le logo à été entièrement dessiné sur Paint
 
-![Logo2 de Codeur](../assets/Logo2.png)
+![Logo2 de Codeur](https://github.com/M6a5x98/Codeur_v2/blob/main/assets/Logo2.png)
