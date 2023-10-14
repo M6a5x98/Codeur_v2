@@ -1,6 +1,6 @@
 module.exports = {
   token:
-    "MTE0NzQxMjEwMTg1NDQxNjkyNw.GGXgaf.JQGYqvupd1JiKB_NVUe3Nf6H1-EWVArF7B6TWc",
+    "",
   words: [
     "con",
     "merde",
