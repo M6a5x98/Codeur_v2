@@ -1,7 +1,0 @@
-node_modules
-config.js
-*.cmd
-*.exe
-*.log
-package-lock.json
-assets
