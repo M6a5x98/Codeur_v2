@@ -8,3 +8,6 @@ J'utilise discord.js v 14, fs (file system) et express.
 ![Logo de Codeur_v2.1](https://cdn.discordapp.com/app-icons/1147412101854416927/e580c1b2b2ffde21d3e9ae06d0b649ae.png?size=256&quot)
 
 Le logo à été entièrement dessiné sur Paint
+
+### Remerciments
+Je remercie [MadRage](https://www.youtube.com/@Mad_Rage) pour les [tutos](https://www.youtube.com/playlist?list=PLCKgTe6DYNc5OMW7RfY0d3CYMWzGQRxsh) et plus particulièrement celui des [SlashCommands](https://www.youtube.com/watch?v=ojGQnvm-RMI&list=PLCKgTe6DYNc5OMW7RfY0d3CYMWzGQRxsh&index=4)
